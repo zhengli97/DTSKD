@@ -6,6 +6,13 @@
 > Pattern Recognition 2024 <br>
 > [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320324001730)] [[中文解读](https://zhuanlan.zhihu.com/p/690877571)]
 
+## 💡 Important Note
+
+This work was completed in 2022, but due to journal review reasons it was not published until 2024. I originally did not intend to open source the code, but some comments on the Zhihu forum hoped to learn about this implementation, so I did it.
+
+Note that the reproducibility of this code may be a bit lower than what is reported in the paper, which may be due to my accidental deletion when cleaning up the code. I'm so sorry for this.
+
+If you have any questions, you can submit an [issue](https://github.com/zhengli97/DTSKD/issues) on GitHub, leave a message on [Zhihu Article](https://zhuanlan.zhihu.com/p/690877571) (if you can speak Chinese), or contact me by email (zhengli97[at]qq.com).
 
 ## Abstract
 
@@ -56,10 +63,6 @@ python3 main.py --lr 0.1 \
                 --world_size 1
 ~~~
 
-
-## Contact
-
-If you have any questions, you can submit an [issue](https://github.com/zhengli97/DTSKD/issues) on GitHub, leave a message on [Zhihu Article](https://zhuanlan.zhihu.com/p/690877571) (if you can speak Chinese), or contact me by email (zhengli97[at]qq.com).
 
 ## Citation
 
